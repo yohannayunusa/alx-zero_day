@@ -1,1 +1,1 @@
-my second commit
+I am enjoying ALX SE training
